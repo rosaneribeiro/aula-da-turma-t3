@@ -1,0 +1,20 @@
+/*Comentário*/
+
+/* SELETOR {
+    atributo/propriedade: valor
+} */
+
+h1{
+    color: red;
+}
+h2{color: purple;}
+li{ color: red;
+}
+.listafruta{color: purple;}
+
+#sobre, p{ color: blue;}
+body{ background-color: aquamarine;}
+
+/* BONUS! */
+
+.boxOne{ width:50px; background-color: red;}
